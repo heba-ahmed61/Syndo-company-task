@@ -1,0 +1,81 @@
+{
+    "posts" : [
+
+        {    
+            "postId":1,
+            "postImage": "data:image/png;base64,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",
+            "postTitle" : "Post Title1",
+            "date": "11/10/2021",
+            "postDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "prograssbar" : 60,
+            "badge" : "A",
+            "postInformation" : [
+
+                {"fundingGoal" : "1.000.000"  },
+                {"interestRate" : 12},
+                {"tenor" : "12months"},
+                {"totalInvested" : "500.000"},
+                {"investors" : 5},
+                {"skinInTheGame" : 5}
+            ]
+
+        },
+        {   
+            "postId":2,
+            "postImage": "https://images.wuzzuf-data.net/files/company_logo/Ahl-Masr-Foundation-Egypt-19261-1471176400-og.jpg",
+            "postTitle" : "Post Title2",
+            "date": "11/10/2021",
+            "postDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "prograssbar" : 60,
+            "badge" : "B",
+            "postInformation" : [
+
+                {"fundingGoal" : "1.000.000"  },
+                {"interestRate" : 12},
+                {"tenor" : "12months"},
+                {"totalInvested" : "500.000"},
+                {"investors" : 5},
+                {"skinInTheGame" : 5}
+            ]
+
+        },
+        {   
+            "postId":3,
+            "postImage": "data:image/png;base64,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",
+            "postTitle" : "Post Title3",
+            "date": "11/10/2021",
+            "postDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "prograssbar" : 60,
+            "badge" : "A",
+            "postInformation" : [
+
+                {"fundingGoal" : "1.000.000"  },
+                {"interestRate" : 12},
+                {"tenor" : "12months"},
+                {"totalInvested" : "500.000"},
+                {"investors" : 5},
+                {"skinInTheGame" : 5}
+            ]
+
+        },
+        {   
+            "postId":4,
+            "postImage": "https://images.wuzzuf-data.net/files/company_logo/Ahl-Masr-Foundation-Egypt-19261-1471176400-og.jpg",
+            "postTitle" : "Post Title4",
+            "date": "11/10/2021",
+            "postDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "prograssbar" : 60,
+            "badge" : "B",
+            "postInformation" : [
+
+                {"fundingGoal" : "1.000.000"  },
+                {"interestRate" : 12},
+                {"tenor" : "12months"},
+                {"totalInvested" : "500.000"},
+                {"investors" : 5},
+                {"skinInTheGame" : 5}
+            ]
+
+        }
+    ]
+}
